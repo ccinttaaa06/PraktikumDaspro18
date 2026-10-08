@@ -11,3 +11,11 @@ Kelas : SIB-1B
 | 2 | Dandi Sutrisno | BELMAWA | 3 | Juara 1 | Tidak dapat dana, kurang 1 dokumen |
 | 3 | Christino Novan Kurniawan | BAKORMA | 1 | Juara 3 | Tidak dapat dana, kurang 3 dokumen |
 | 4 | Aprilio Ahmad Yani | PKM | 2 | Lolos | Tidak dapat dana, kurang 2 dokumen |
+
+## Hasil Uji Studi Kasus 2 oleh Abelya Cinta Maharani
+| No | Mahasiswa | Jenis | Dokumen | Juara/Dana | Hasil |
+|----|-----------|-------|---------:|------------|-------|
+| 1 | nita | BAKORMA | 3 | Juara 1 | Dokumen tidak lengkap. Dana penghargaan tidak diberikan |
+| 2 | naya | Mandiri | 4 | Juara 0 | Tidak dapat dana |
+| 3 | sayang | PKM | 4 | Juara 1 | Berhak memperoleh dana penghargaan |
+| 4 | cici | LAINNYA | 0 | 0 | Tidak memperoleh dana penghargaan |
